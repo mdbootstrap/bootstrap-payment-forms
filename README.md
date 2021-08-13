@@ -142,3 +142,5 @@ CSS
 .btn-group-vertical>.btn:not(:first-child),
 .btn-group-vertical>.btn-group:not(:first-child) { margin-top: 0; }
 ```
+
+#### Much more examples and a detailed description can be found at [📄 Payment Forms documentation page](https://mdbootstrap.com/docs/standard/extended/payment-forms/)
