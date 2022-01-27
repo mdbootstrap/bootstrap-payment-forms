@@ -1,25 +1,25 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-payment-forms",
+  "version": "1.0.0",
+  "description": "Responsive Payment Forms built with the latest Bootstrap 5. Credit card, PayPal, Stripe, eCommerce checkout and many more examples.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-payment-forms.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "payment-form",
     "bootstrap5",
-    "circle-image-view"
+    "payment-form-eCommerence"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-payment-forms/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/payment-forms/"
 }
